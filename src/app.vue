@@ -1,11 +1,10 @@
 <template>
   <div id="app">
-    你好啊
+    <router-view></router-view>
   </div>
 </template>
 
 <script>
-import app from './app.js'
 
 export default {
   name: 'App'

@@ -1,4 +1,3 @@
 let i = 0;
 
-
-console.log(window)
+console.log(i)

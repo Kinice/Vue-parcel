@@ -1,7 +1,6 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import App from './src/app.vue'
-console.log(Vue)
 
 import Hello from './src/pages/hello.vue'
 
